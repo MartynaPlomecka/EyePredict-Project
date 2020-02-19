@@ -1,6 +1,6 @@
 
 
-%% General Settings for CMI_EEG
+%% General Settings for EyePredict
 % These are settings that are used for all the other Scripts
 pausekey = KbName('p');  % Pausekey
 port=0;                  % Netstation
