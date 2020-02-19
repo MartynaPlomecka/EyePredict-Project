@@ -1,9 +1,4 @@
-addpath(genpath('/home/stimuluspc/Neurometric'));
-addpath('/home/stimuluspc/Neurometric/Clips');
-addpath('/home/stimuluspc/Neurometric/general_matlabfiles');
-addpath('/home/stimuluspc/Neurometric/resting');
-Screen('Preference','SkipSyncTests',1);
-Screen('Preference', 'VisualDebugLevel', 0);
+
 
 %% General Settings for CMI_EEG
 % These are settings that are used for all the other Scripts
